@@ -1,26 +1,20 @@
-# My First Webpage 🌐
+# Weather Web
 
-This is my first webpage created using HTML & CSS as part of my Web Development learning journey.
+A responsive weather dashboard UI built with HTML and CSS. It presents current conditions, hourly forecasts, and a multi-day weather outlook in a clean dark interface.
 
-## 🚀 Live Demo
-👉 https://ashutoshyadav8564-ashu.github.io/my-first-webpage/
+## Live demo
 
-## 🛠️ Tech Stack
+Add the published site URL here after deployment.
+
+## Tech stack
+
 - HTML5
 - CSS3
-- Git & GitHub
 
-## 📸 Screenshot
+## Run locally
 
-## 📚 What I Learned
-- Basic HTML structure
-- CSS styling
-- How to push code using git bash
-- GitHub Pages deployment
+Open `01_index.html` in a web browser.
 
-## 👨‍💻 Author
-**Ashutosh Yadav**
-- GitHub: [@ashutoshyadav8564-ashu](https://github.com/ashutoshyadav8564-ashu)
+## Author
 
----
-⭐ If you like this project, give it a star!
+Ashutosh Yadav - [@ashutoshyadav8564-ashu](https://github.com/ashutoshyadav8564-ashu)
