@@ -1,8 +1,9 @@
-/* =========================================
-   RESET
-========================================= */
+/* ============================================
+    Updated by Changing blank spaces at about me and project section using icons ============================================= */
 
-* {
+
+
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -337,7 +338,8 @@ ul {
         0 0 80px rgba(139, 92, 246, 0.2);
 }
 
-.profile-circle img {
+.profile-circle img,
+.profile-circle svg {
     width: 100%;
     height: 100%;
 
@@ -361,8 +363,10 @@ ul {
     align-items: center;
 }
 
-.about-image img {
+.about-image img,
+.about-image svg {
     height: 450px;
+    width: 100%;
 
     object-fit: cover;
 
@@ -609,7 +613,8 @@ ul {
     overflow: hidden;
 }
 
-.project-image img {
+.project-image img,
+.project-image svg {
     width: 100%;
     height: 100%;
 
@@ -618,7 +623,8 @@ ul {
     transition: 0.5s ease;
 }
 
-.project-card:hover .project-image img {
+.project-card:hover .project-image img,
+.project-card:hover .project-image svg {
     transform: scale(1.08);
 }
 
