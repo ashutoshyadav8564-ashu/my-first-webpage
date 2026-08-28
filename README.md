@@ -4,7 +4,7 @@ A responsive weather dashboard UI built with HTML and CSS. It presents current c
 
 ## Live demo
 
-Add the published site URL here after deployment.
+ https://ashutoshyadav8564-ashu.github.io/my-first-webpage/
 
 ## Tech stack
 
